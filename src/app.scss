@@ -1,0 +1,23 @@
+// variabili
+$color : blue;
+$background : red;
+$size : 50px;
+
+// css
+h1 {
+  font-size: $size;
+}
+
+h2 {
+  color: $color;
+}
+
+h3 {
+  background-color: $background;
+  font-size: $size;
+}
+
+p {
+  color: $color;
+  background-color: $background;
+}
